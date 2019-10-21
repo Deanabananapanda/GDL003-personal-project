@@ -1,23 +1,38 @@
 # Titulo
 
 ## Preámbulo
-Aquí nos darás un intro sobre tu proyecto, puede ser tanto la problemática que vas a resolver o el objetivo del proyecto. 
-
+STARWARSPixel es divertido videojuego que te recordará esos bellos tiempos cuando jugabas MarioBros con tus amigos y hermanos... pero aún mejor... CON TEMATICA DE STARWARS!
+![](https://www.pnglot.com/pngfile/detail/68-684650_awesome-download-star-wars-logo-pixel-art-png.png)
 ## Introducción
-Parecido al preámbulo, solo que nos darás más información sobre el proyecto.
+Para este videojuego usaremos Unity.
+Unity es un motor de videojuego multiplataforma creado por Unity Technologies. Unity está disponible como plataforma de desarrollo para Microsoft Windows, OS X, Linux. La plataforma de desarrollo tiene soporte de compilación con diferentes tipos de plataformas.
 
 ## Objetivos de aprendizaje
-¿Qué aprenderás con este proyecto? Si tienes dudas, puedes acercarte a los coaches para aterrizar estos objetivos
+
+Aprenderemos de realción de aspecto.
+Resolución base.
+Zona segura.
+Textura.
+Diseñi multiplataforma.
+Efecto parallax en distintas capas.
+ANimaciones, colisiones y particulas.
+Generación dinámica de objetos.
+Manipulación de ritmo de juego.
+Manejo de la GUI y marcador de puntos.
+Guardado en puntuación máxima con PlayerPref.
+Exportación a Windows, WebGL y Android.
+
 
 ## Consideraciones Generales
-Las reglas del juego para tu proyecto. Como te vas a organizar, que cosas se pueden utilizar, etc.
+Este proyecto se debe "resolver" de manera individual.
 
-## Avances esperados
-Qué esperas lograr con este proyecto según el tiempo establecido.
+Está permitido usar librerías externas o cualquier otra herramienta que permita mejorar el videojuego.
+
+## Avances esperado
+- Un nivel.
 
 ## Hacker Edition
-Lo que te gustaría lograr cuando los avances esperados esten listos.
+- Multijugador.
+- Varios Niveles.
 
-## Uso
-Explica a quienes visiten tu repo como pueden contribuir a tu proyecto. ¿Hay que instalar algo? Describe los pasos para poder correr localmente el proyecto.
 
